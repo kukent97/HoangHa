@@ -8,7 +8,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Login to YZENNY</title>
+<title>Login to H2M</title>
 <style>
 body{font-size:x-large;color:orange;font-family:Time New Roman;background-color:gray}
 p{text-align:center;color:red;font-size:xx-large;}
@@ -18,7 +18,7 @@ div{width:70%;padding:10px 36px;border:1px solid yellow;margin:auto;box-shadow:2
 </style>
 </head>
 <body>
-<p>YZENNY Web Application</p>
+<p>H2M Web Application</p>
 <div>
 <form action="Login" method="post">
 <label for="username">Username: </label>

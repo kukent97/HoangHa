@@ -11,7 +11,7 @@
 
    <body>
       <sql:setDataSource var = "snapshot" driver = "com.mysql.jdbc.Driver"
-         user = "root"  password = "nhuy"/>
+         user = "root"  password = "thanhha01"/>
       <sql:query dataSource = "${snapshot}" sql = "select * from cmt" var = "result" />
       
    </body>
